@@ -15,5 +15,5 @@ Blindness makes life rather difficult for people who suffer from this health pro
 
 ## Prototype
 
-<img src="https://github.com/HeliosX7/caption-generator-app/tree/master/images/prototype.JPG" width="750">
+<img src="https://github.com/HeliosX7/caption-generator-app/blob/master/images/prototype.JPG" width="750">
 
