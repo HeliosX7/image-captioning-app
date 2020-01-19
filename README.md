@@ -30,3 +30,12 @@ Blindness makes life rather difficult for people who suffer from this health pro
 ## Snippets
 
 <img src="https://github.com/HeliosX7/caption-generator-app/blob/master/images/captioner_snippet.gif" width="300">
+
+
+---
+
+
+## References
+
+https://github.com/SHARONZACHARIA/Deploy-ML-model
+
