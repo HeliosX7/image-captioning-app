@@ -2,11 +2,9 @@
 
 ---
 
+`Build-A-Bit` `Concetto 19`
 
-Build-A-Bit | Concetto 19
-
-`Team Name : The Unknowns`
-
+Team Name : The Unknowns
 
 ---
 
@@ -18,18 +16,32 @@ Blindness makes life rather difficult for people who suffer from this health pro
 
 ---
 
+## Requirements
+
+**Python**
+* Flask
+* Keras
+* NumPy
+
+**Flutter**
+* image_picker
+* dio
+* http
+* flutter_tts
+
+---
 
 ## Workflow
 
-<img src="https://github.com/HeliosX7/caption-generator-app/blob/master/images/prototype.JPG" width="750">
+<img src="https://github.com/HeliosX7/caption-generator-app/blob/master/images/workflow.JPG" height="600">
 
 
 ---
 
 
-## Snippets
+## Demo
 
-<img src="https://github.com/HeliosX7/caption-generator-app/blob/master/images/captioner_snippet.gif" width="300">
+<img src="https://github.com/HeliosX7/caption-generator-app/blob/master/images/demo.gif" width="280" height="550">
 
 
 ---
@@ -38,4 +50,3 @@ Blindness makes life rather difficult for people who suffer from this health pro
 ## References
 
 https://github.com/SHARONZACHARIA/Deploy-ML-model
-
