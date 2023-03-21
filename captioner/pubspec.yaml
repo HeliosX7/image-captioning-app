@@ -20,7 +20,7 @@ dependencies:
   flutter:
     sdk: flutter
   image_picker:
-  dio:
+  dio: any
   http:
   flutter_tts:  
   toast:
